@@ -7,7 +7,7 @@ public class PreparadorBebidas {
         this.equipo1 = equipo1;
         this.equipo2 = equipo2;
     }
-    public void prepararDesayuno(EquipoCocina cocina,  EquipoCocina licuadora) {
+    public void prepararDesayuno() {
 
         System.out.println("Iniciando preparacion del desayuno...");
         equipo1.encender();
