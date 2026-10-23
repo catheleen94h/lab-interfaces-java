@@ -18,7 +18,7 @@ public class PreparadorBebidas {
     }
     public void apagarTodo() {
         System.out.println("Apagando equipos...");
-        equipo2.apagar();
+        equipo1.apagar();
         equipo2.apagar();
         System.out.println("Equipos apagados.");
     }
